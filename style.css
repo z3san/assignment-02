@@ -107,6 +107,7 @@ border-radius: .5rem;
 font-weight: 600;
 font-size: 1.25rem;
 border: none;
+cursor: pointer;
 }
 
 .banner-img{
